@@ -1405,7 +1405,7 @@ void song(int buzzerPin){
 void setup() {
   // put your setup code here, to run once:
   // call the song function with digital pin
-  song(11);
+  song(13);
 }
 
 void loop() {
